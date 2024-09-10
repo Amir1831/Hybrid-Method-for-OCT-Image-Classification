@@ -1,0 +1,6 @@
+Path,True_label,0_prop,1_prop,Pred
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (29),1,0.8868778280542986,0.11312217194570136,0
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (25),2,1.0,0.0,0
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (24),2,0.9262295081967213,0.07377049180327869,0
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (28),2,0.1796875,0.8203125,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (39),0,0.43452380952380953,0.5654761904761905,1

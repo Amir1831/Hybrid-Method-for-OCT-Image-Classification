@@ -1,0 +1,3 @@
+Path,True_label,0_prop,1_prop,Pred
+../../ICIP_denoised_data/Data_1/train/1/RawDataQA-1 (23),1,0.6538461538461539,0.34615384615384615,0
+../../ICIP_denoised_data/Data_1/train/2/RawDataQA-2 (1),2,0.038461538461538464,0.9615384615384616,1

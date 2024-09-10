@@ -1,0 +1,20 @@
+Path,True_label,P1,P2,PRED
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (25),1,0.8412945,0.15870562,1
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (29),1,0.884494,0.11550648,1
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (28),1,0.7101688,0.28983095,1
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (30),1,0.86902595,0.13097371,1
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (26),1,0.8957205,0.10427935,1
+../../ICIP_denoised_data/Data_1/test/1/RawDataQA-1 (27),1,0.78495294,0.21504706,1
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (25),2,0.7369096,0.26309034,1
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (27),2,0.47663856,0.5233614,2
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (24),2,0.82729596,0.17270415,1
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (28),2,0.59855336,0.4014466,1
+../../ICIP_denoised_data/Data_1/test/2/RawDataQA-2 (26),2,0.23480287,0.7651974,2
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (41),1,0.64157563,0.3584244,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (38),1,0.76988083,0.23011936,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (37),1,0.909891,0.09010929,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (42),1,0.9508507,0.049149062,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (35),1,0.90346503,0.096534885,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (36),1,0.77762115,0.22237875,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (40),1,0.69693834,0.3030616,1
+../../ICIP_denoised_data/Data_1/test/0/RawDataQA (39),1,0.7954972,0.2045029,1
