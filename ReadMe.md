@@ -66,6 +66,8 @@ This hybrid approach using Vision Transformers and Siamese networks provides a r
 We thank the ICIP VIP Cup 2024 organizers and the Isfahan University of Technology for their support.
 
 ## Contribution
-(https://github.com/ArefHbb)[Aref Habibi]
-(https://github.com/Sajed68)[Sajed Rakhshani]
+[Aref Habibi](https://github.com/ArefHbb)
+
+
+[Sajed Rakhshani](https://github.com/Sajed68)
 
