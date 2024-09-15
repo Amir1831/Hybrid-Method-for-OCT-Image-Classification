@@ -1,6 +1,6 @@
 # ICIP VIP Cup 2024 - Hybrid Method for OCT Image Classification
 
-This repository contains the code and methodology used by our team in the [ICIP VIP Cup 2024 competition](https://2024.ieeeicip.org/vip-cup/). We developed a hybrid method for classifying Optical Coherence Tomography (OCT) images to identify subjects with Diabetic Macular Edema (DME), Normal, and Non-DME conditions using a multi-instance learning approach.
+This repository contains part of our experiments in the [ICIP VIP Cup 2024 competition](https://2024.ieeeicip.org/vip-cup/). We developed a hybrid method for classifying Optical Coherence Tomography (OCT) images to identify subjects with Diabetic Macular Edema (DME), Normal, and Non-DME conditions using a multi-instance learning approach.
 
 ## Overview
 
@@ -64,4 +64,8 @@ This hybrid approach using Vision Transformers and Siamese networks provides a r
 ## Acknowledgments
 
 We thank the ICIP VIP Cup 2024 organizers and the Isfahan University of Technology for their support.
+
+## Contribution
+(https://github.com/ArefHbb)[Aref Habibi]
+(https://github.com/Sajed68)[Sajed Rakhshani]
 
